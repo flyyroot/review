@@ -55,3 +55,12 @@ footer a{
     text-decoration: none;
     background-color: rgba(168, 165, 165, 0.418);
 }
+@media(max-width:768px){
+    body{
+        width: 90%;
+    }   
+    .sect-content{
+        padding: 10px 30px;
+     }
+    
+}
